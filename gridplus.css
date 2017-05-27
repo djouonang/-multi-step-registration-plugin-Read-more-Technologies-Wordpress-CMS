@@ -1,0 +1,392 @@
+
+
+.checkboxa input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxa input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxa div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/04/bathroom.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxa div:hover,
+.checkboxa div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
+.checkboxb input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxb input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxb div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/04/commercial.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxb div:hover,
+.checkboxb div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
+.checkboxc input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxc input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxc div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/04/puzzle.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxc div:hover,
+.checkboxc div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+.checkboxd input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxd input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxd div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/04/news.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxd div:hover,
+.checkboxd div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
+.checkboxe input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxe input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxe div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/04/home1.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxe div:hover,
+.checkboxe div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
+.checkboxf input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxf input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxf div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/04/home.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxf div:hover,
+.checkboxf div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+.checkboxg input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxg input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxg div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/04/picture.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxg div:hover,
+.checkboxg div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
+.checkboxh input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxh input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxh div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/04/remodel.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxh div:hover,
+.checkboxh div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+.checkboxu input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxu input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxu div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/05/id_card.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxu div:hover,
+.checkboxu div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
+
+.checkboxr input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxr input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxr div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/05/users.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxr div:hover,
+.checkboxr div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
+
+
+
+
+
+.checkboxl input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxl input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxl div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/05/industry.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxl div:hover,
+.checkboxl div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
+
+
+
+.checkboxk input[type="checkbox"]
+{
+    display: none; 
+ 
+}
+.checkboxk input[type="checkbox"]:checked + div
+{
+    background: #ccc;    
+}
+
+  .checkboxk div {
+    background-color: #c9640e00;
+    color: #4a4a4a;
+    background-image: url('http://localhost/wordpress/wp-content/uploads/2017/05/increase.png');
+    background-position: 50px 10px;
+    background-repeat: no-repeat;
+    border-radius: 1px;
+    padding: 20px;
+    font-size: 1.1em;
+    padding-top: 43px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.checkboxk div:hover,
+.checkboxk div:focus {
+  
+  color: #c9640e;
+  border: 1px solid #c9640e;
+}
+
+
